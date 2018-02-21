@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-image: url('water-back.jpg');
+  background-position: left;
+  height: 2px;
+  background-repeat: repeat;
+}
